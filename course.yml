@@ -1,0 +1,50 @@
+title: Contributing to Sojourn test
+description: Developer guide on contributing to Sojourn test
+
+author-ids:
+  - christophe-f
+  - kshbrb
+locale: en-CA
+difficulty: INTERMEDIATE
+badge-color: blue
+badge-icon: tool
+live: false
+labs:
+  - id: 01-introduction
+    title: Introduction
+    length-in-minutes: 2
+    relative-path: lab-01
+  - id: 02-what-is-sojourn
+    title: What is Sojourn
+    length-in-minutes: 5
+    relative-path: lab-02
+  - id: 03-contribution-guide
+    title: Contribution Guide
+    length-in-minutes: 5
+    relative-path: lab-03
+  - id: 04-developer-guide
+    title: Developer Guide
+    length-in-minutes: 5
+    relative-path: lab-04
+  - id: 05-getting-started
+    title: Getting Started
+    length-in-minutes: 10
+    relative-path: lab-05
+  - id: 06-add-backend-service
+    title: Add Backend Service
+    length-in-minutes: 10
+    relative-path: lab-06
+  - id: 07-add-frontend-panel
+    title: Add Frontend Panel
+    length-in-minutes: 10
+    relative-path: lab-07
+  - id: 08-add-project-template
+    title: Add Project Template
+    length-in-minutes: 10
+    relative-path: lab-08
+  - id: 09-summary
+    title: Summary
+    length-in-minutes: 2
+    relative-path: lab-09
+    
+
